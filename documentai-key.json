@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-sprite-457913-b4",
+  "private_key_id": "8ddffbb1c277501edf0ef95e7e0651bfc1b916b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+JkxFzq8bb9s0\nvTJPEJ6a/oLiuUL0HN715f8Rjhs14HtcAjG/VZw68FLKwWW42VLGt0lQc3hy2Smr\n/KX2LP/EvDh3GG/XLCK7X3V8qWVYW1Ts10PxZBJ0RSOOn0vYVQGti3Mhe4MO8fuv\n/5Z4e2y/mIqCHh80lgk6Kc/x9fQQJSL+EH1xT0bbXDjIoFwBbF8X0Z/tvMA7gRId\nIhzkvgghcFHiAnmNfm8JymRU2CAj4GtTQz0AieivPX/HzChOwVp3BuIdxam7jw0Y\nedU27Ph74tfY8uRwJUjwbhNiid39LOuX0AM6VByVeTgr46rrx9Dk+hqhqN04/28T\nj6QJwvZlAgMBAAECggEAQssXLcpNbljbamovOuC+pflTJqsnHrLpiv0QnS0K1+ET\n1B0dNnWvHHEA1CIdRlJopk8J3M3C+KzZ24UzEwd5jLUFLKiT2MSzKph8n56tb90d\nNtjjD+80IE2NEPNZ5BLwNPLwLUnCnsRXwdoJFCde6up9dPl5wrIVaa34Uqkv419c\n8iLSV7MhqAHa5Xra47ffKP9VVuw6NOW3HgFrjMsG2Yh7R560cS1P8k4VwGPIROfF\nZy2JKzKD53vgrx9XC6qpW8hVS5VRozfpQa24b/euuPhw/OeUGoFrBHli86XflK4h\nB8YHW3pFaHY2C+eiKm8JLDQewsUKXj0HdniM69D5XQKBgQDoz1dvQr07BWgbtX4v\ns6FH1MUhBgYeQtLJNHKVi6bo0tW04lUI/9dRFO6selh3/rMBQfDsHYfnAi4M9ULb\n3OpvUnaWsj0gAfRRHkeug/YUeMKAW62jrhh7ktprnPEi0zpvNUiZe40CDs40Z+eW\nmPOb960NIVR96MBeKxsdiXPxewKBgQDRFx36Td5qlxLlRPoz4axpTw2gUZgsPVaZ\n6YOCKeDZIcCOyTAzzfbQkEZk+AGF9C5VeTU4sSXj/CDCzKofslRMptGly6Z10FEr\nGIKSXn5RINaA6JYH1RUGgLOFdyUcamoqYo/JAc3G7T7opyzzxhPJKFuIIDgdOPeZ\nbRkF+uOBnwKBgQDIFfMaX2yM/j+UmO5jhumU96uYjznQ5jOM03OrTUPdE96xwFe/\nDUr7l5btS5UfRBqKeSbbdyHnC3uSjXOxzHL7zA65w2Q/Tw6wbOrEdQuYWpUnhiN8\n6lKGWhc4p8Ci4pF1JIFJz+LHovvcFHT4fGnaYQosn7mjINe71yZNw2WPYwKBgQCl\nUIm7JWX9EIU4EFliO8N9X6t+XgTatYSLHD2F5GaKRk1gl2EtFGNYczm1CwDpUC5y\nFesmb6ltoCKm4fqAJRbRo/OOCn4KGDKUyEQ0RdHJgxUVxs8YUjjVc1x84b7NwLU/\n3b2hR3PTHDDo8YRxGOL74JS+A/tZ33ikLcXjHIJUMQKBgG13/ZAgkOU/qVaZP/Dv\nHgr87Bgtx75kmW2O/WuvOmpu1N9PasmiIrnT/RBkqotssJ32D6eGbprVM3VSJxcL\nmMAyJ20BtM7ePQVpJCYz7AsFvWMJdE2JOJYk27vBBt8SR4wJrKXOAq9LwXTksiAh\nSe8omOgOZT0AKnS1aY9U0hrV\n-----END PRIVATE KEY-----\n",
+  "client_email": "documentai-service@agile-sprite-457913-b4.iam.gserviceaccount.com",
+  "client_id": "110570353161219283164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/documentai-service%40agile-sprite-457913-b4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
